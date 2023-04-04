@@ -1,0 +1,4 @@
+{
+    "gitlens.advanced.repositorySearchDepth": 4,
+    "git.repositoryScanMaxDepth": -1
+}
